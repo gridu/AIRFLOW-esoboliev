@@ -1,0 +1,5 @@
+.idea/*
+airflow.db
+airflow.cfg
+logs
+usr
